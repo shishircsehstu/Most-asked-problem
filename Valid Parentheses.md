@@ -4,10 +4,7 @@ problem link: https://leetcode.com/problems/valid-parentheses/
 
 ### My solution: Using stack it is easy to solve. 
 
-};
-
 bool isValid(string s) {
-    
     stack<char>st;
     if(s.length()>0){
         st.push(s[0]);
@@ -37,5 +34,3 @@ bool isValid(string s) {
     return  false;
 }
 
-
-int main() {
