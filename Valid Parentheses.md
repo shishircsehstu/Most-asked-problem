@@ -1,4 +1,3 @@
 1. Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-Input: s = "()"
-Output: true
+problem link: https://leetcode.com/problems/valid-parentheses/
