@@ -4,7 +4,7 @@ problem link: https://leetcode.com/problems/valid-parentheses/
 
 ### My solution: Using stack it is easy to solve. 
 
-
+};
 
 bool isValid(string s) {
     
@@ -38,3 +38,4 @@ bool isValid(string s) {
 }
 
 
+int main() {
